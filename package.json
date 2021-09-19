@@ -1,0 +1,35 @@
+{
+  "name": "tr-component",
+  "private": true,
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacarvy/tr.git"
+  },
+  "keywords": ["transition-component","astro-component"],
+  "author": "sacarvy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sacarvy/tr/issues"
+  },
+  "homepage": "https://github.com/sacarvy/tr#readme",
+  "devDependencies": {
+    "astro": "^0.20.5",
+    "lerna": "^4.0.0"
+  },
+  "engines": {
+    "node": "^13.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "volta": {
+    "node": "14.16.1",
+    "npm": "7.11.2",
+    "yarn": "1.22.10"
+  },
+  "workspaces": [
+    "www"
+  ]
+}
