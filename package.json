@@ -30,6 +30,7 @@
     "yarn": "1.22.10"
   },
   "workspaces": [
+    "package/*",
     "www"
   ]
 }

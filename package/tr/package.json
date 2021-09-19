@@ -1,20 +1,20 @@
 {
   "name": "tr-component",
+  "version": "0.0.1",
   "author": "sacarvy",
   "keywords": ["astro","astro component","astro stylesheet"],
   "description": "Astro StyleSheet Link Component, This single Component provides the interface to apply many stylesheets in one place, have it also apply relevant sanitize.css files that are required",
   "license": "MIT",
-  "version": "0.0.1",
-  "homepage": "https://github.com/aFuzzyBear/astro-academy/tree/master/packages/astro-ui/head/stylesheet",
+  "homepage": "https://github.com/sacarvy/Tr/tree/main/package/tr",
   "bugs": {
-    "url": "https://github.com/aFuzzyBear/astro-academy/tree/master/packages/astro-ui/head/stylesheet/issues"
+    "url": "https://github.com/sacarvy/Tr/tree/main/package/tr/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aFuzzyBear/astro-academy.git"},
-
+    "url": "https://github.com/sacarvy/Tr.git"
+  },
   "files": [
-    "src/components/Stylesheet.astro",
+    "src/components/Tr.astro",
     "src/index.js"
   ],
   "exports":"./src/index.js",
